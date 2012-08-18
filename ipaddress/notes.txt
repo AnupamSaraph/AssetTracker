@@ -1,0 +1,18 @@
+a.	Citizens wishing to submit details of trees could register on the website.
+b.	Citizens may identify locations of trees on a Google Map on the website. Once they identify the location the citizen would be required to submit details of the tree at that location through a form.
+c.	The tree details submitted by the citizen would include the species, width, height and photographs of the tree from the East, West, North and South. They may submit details of the property where the tree is located if the details are available. These details would include: Survey No, Property Tax No, Owner Name, address and type (roads/in parks/on hill slopes/in green belts/in gardens/in open spaces/in stadiums/in playgrounds/in DP open spaces/ in central, state, local and semi government offices).
+d.	The details submitted by the citizens should get stored in a secure database, the Tree Registry. Citizens should receive a email receipt for their contributions mentioning the details submitted and the date.
+e.	Details of any subsequent changes made to the entry by the any user should be maintained in an audit trail.
+f.	Once the tree status is verified and the tree labeled with a number (possibly embedded in an RFID chip) the Tree Registry database will be updated.
+g.	Once the tree in the registry can be identified again it shall be deemed to have been counted in the census.
+h.	Citizens could request the software to send an email or sms alert if the information about the trees they are interested in changes and receive “real time” records of trees they are interested in.
+i.      Requests for tree service could identify a tree, select it and request horticulture help (against disease), for transplantation (along with new location), for trimming or felling (citing reasons). Such service requests would be appended to the tree record along with a status of the the service (including information on who undertook the service).
+
+Views:
+All trees along roads/in parks/on hill slopes/in green belts/in gardens/in open spaces/in stadiums/in playgrounds/in DP open spaces/ in central, state, local and semi government offices
+Trees of a particular age
+Trees of a species
+Trees of a particular height
+Trees in the properties owned by a particular owner
+Trees trimmed or felled
+Trees with disease/dangerous or dead trees
