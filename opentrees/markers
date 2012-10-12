@@ -1,0 +1,6 @@
+  icon: "http://maps.google.com/mapfiles/ms/icons/blue-dot.png",
+  http://gmaps-samples.googlecode.com/svn/trunk/markers/blue/blank.png
+  http://maps.gstatic.com/mapfiles/icon_green.png
+  
+animation: google.maps.Animation.DROP,
+animation: google.maps.Animation.BOUNCE,
